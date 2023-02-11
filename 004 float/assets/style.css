@@ -1,0 +1,21 @@
+.elementExample {
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.elementExample_first {
+    background-color: #8e44ad;
+    float: left;
+    opacity: 0;
+
+}
+
+.elementExample_last {
+    background-color: #c0392b;
+    color: black
+
+}
